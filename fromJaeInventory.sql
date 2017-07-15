@@ -1,0 +1,1 @@
+select * from fromJae_DB.warehouse;
